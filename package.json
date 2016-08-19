@@ -1,0 +1,20 @@
+{
+  "name": "cookie-parser-dynamic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cookie-parser-dynamic.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3"
+  },
+  "devDependencies": {
+    "cookie-signature": "^1.0.6",
+    "mocha": "^3.0.2",
+    "supertest": "^2.0.0"
+  }
+}
